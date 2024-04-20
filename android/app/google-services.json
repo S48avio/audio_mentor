@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117138485718",
+    "project_id": "classproject-53b90",
+    "storage_bucket": "classproject-53b90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117138485718:android:f1604dc4f0d5a8323ef477",
+        "android_client_info": {
+          "package_name": "com.mycompany.gdcsavio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO7i7dyHIulx36-myxJnzgda4UiBvqs08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
